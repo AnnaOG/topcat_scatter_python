@@ -5,3 +5,6 @@ https://stackoverflow.com/questions/50526344/points-with-density-gradient
 https://stackoverflow.com/questions/20105364/how-can-i-make-a-scatter-plot-colored-by-density-in-matplotlib
 
 TOPCAT_density_demo.ipynb contains the code and demonstrates its use.
+
+Example comparison:
+![Screenshot](topcat_comparison.pdf)
