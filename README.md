@@ -6,4 +6,4 @@ https://stackoverflow.com/questions/20105364/how-can-i-make-a-scatter-plot-color
 
 TOPCAT_density_demo.ipynb contains the code and demonstrates its use.
 
-![Comparison image](topcat_comparison.jpg)
+![Comparison image](topcat_comparison.png)
