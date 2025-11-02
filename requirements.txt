@@ -1,0 +1,4 @@
+# Minimum tested versions of dependencies for topcat_scatter_utils
+numpy>=1.20.0          # Numerical computing library
+scipy>=1.10.0         # Scientific computing library, used for KDE
+matplotlib>=3.3.0      # Plotting library
