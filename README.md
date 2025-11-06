@@ -1,6 +1,6 @@
 # topcat_scatter_python
 
-A set of utilities to create scatter plots in Python that resemble [TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/) plots. This code was adapted from the these two sources: [Source1](https://stackoverflow.com/questions/50526344/points-with-density-gradient), [Source2](https://stackoverflow.com/questions/20105364/how-can-i-make-a-scatter-plot-colored-by-density-in-matplotlib).
+A set of utilities to create scatter plots in Python that resemble [TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/) plots. This code was adapted from these two sources: [Source1](https://stackoverflow.com/questions/50526344/points-with-density-gradient), [Source2](https://stackoverflow.com/questions/20105364/how-can-i-make-a-scatter-plot-colored-by-density-in-matplotlib).
 
 ---
 
